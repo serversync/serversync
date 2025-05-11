@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Bots;Node.js+iniciante" alt="Typing SVG" />
 </p>
 
-## <i class="fa-solid fa-user-pen"></i> Sobre Mim
+## 🚀 Sobre Mim
 
 Sou um desenvolvedor iniciante apaixonado por tecnologia, com foco especial em desenvolvimento de bots e automação. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 
 ---
 
-## <i class="fa-solid fa-computer"></i> Stack Tecnológica
+## 💻 Stack Tecnológica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discord,git,github,vscode,bots,docker,linux&theme=dark" />
@@ -36,7 +36,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia, com foco especial em d
 
   ---
 
-## <i class="fa-solid fa-robot"></i> Projetos com Bots
+## 🤖 Projetos com Bots
 
 - Desenvolvimento de bots para Discord
 - Planejamento de expansão para Telegram e WhatsApp
@@ -61,7 +61,7 @@ Atualmente estou focado em:
 
 ---
 
-## <i class="fa-solid fa-chart-pie"></i> Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serversync&show_icons=true&theme=dark)
 
@@ -69,12 +69,11 @@ Atualmente estou focado em:
 
 ---
 
-## <i class="fa-solid fa-id-card"></i> Contato
+## 📫 Contato
 
 - Redes sociais em manutenção
 
-<i class="fa-brands fa-discord fa-2xl"><a href="#"></a></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
+<i class="fa-brands fa-discord fa-2xl"><a href="#"></a></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl"><a href="#"></a></i>
 
 ---
 
