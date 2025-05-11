@@ -15,7 +15,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia, com foco especial em d
 ## 💻 Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discord,git,github,vscode,bots,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discord,git,github,vscode,bots,docker,linux&theme=radical" />
 </p>
 
 ---
@@ -63,9 +63,9 @@ Atualmente estou focado em:
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serversync&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serversync&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serversync&theme=dark)](https://github.com/serversync/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serversync&theme=radical)](https://github.com/serversync/github-readme-stats)
 
 ---
 
@@ -73,7 +73,7 @@ Atualmente estou focado em:
 
 - Redes sociais em manutenção
 
-<i class="fa-brands fa-discord fa-2xl"><a href="#"></a></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl"><a href="#"></a></i>
+<i class="fa-brands fa-discord fa-2xl" style="color: #282a36;"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl" style="color: #282a36;"><a href="#"></a></i>
 
 ---
 
