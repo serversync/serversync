@@ -73,7 +73,7 @@ Atualmente estou focado em:
 
 - Redes sociais em manutenção
 
-<i class="fa-brands fa-discord fa-2xl" style="color: #282a36;"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl" style="color: #282a36;"><a href="#"></a></i>
+<i class="fa-brands fa-discord fa-2xl" style="color: #d83b7d;"></i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-brands fa-instagram fa-2xl" style="color: #d83b7d;"><a href="#"></a></i>
 
 ---
 
