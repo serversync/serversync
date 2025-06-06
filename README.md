@@ -12,9 +12,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia, com foco especial em d
 
 ## 💻 Stack Tecnológica
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discord,git,github,vscode,bots,docker,linux&theme=radical" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ---
 
