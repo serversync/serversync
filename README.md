@@ -14,7 +14,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia, com foco especial em d
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cloudflare,codepen,discordjs,bots,docker,linux&theme=dark)](https://skillicons.dev)
+
 
 ---
 
@@ -56,6 +56,31 @@ Atualmente estou focado em:
 - Aprofundar conhecimentos em Node.js
 - Expandir habilidades em desenvolvimento de bots
 - Melhorar conhecimentos em desenvolvimento web
+
+---
+
+
+
+<p align="center" style="font-size: 24px; font-weight: bold; text-transform: uppercase;">STATUS DOS PROJETOS</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PRONTO 🟢-2E8B57" alt="Status" />
+  <img src="https://img.shields.io/badge/DESENVOLVIMENTO 🟡-yellow" alt="Status" />
+  <img src="https://img.shields.io/badge/NÃO INICIADO 🔴-red" alt="Status" />
+</p>
+
+
+
+
+## 📚 Projetos
+
+<details>
+<summary> 🌐 Web</summary>
+
+| Projeto | site | Descrição | Tecnologias | Status |
+|---------|------|-----------|-------------|--------|
+| [portfolio](https://github.com/serversync/portfolio) | [site](https://serversync.github.io/portfolio/) | pagina simples de portfolio completo | [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev) | 🟢 pronto |
+</details>
+
 
 ---
 
